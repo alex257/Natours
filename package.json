@@ -17,12 +17,12 @@
   },
   "homepage": "https://github.com/alex257/Natours#readme",
   "devDependencies": {
-    "browser-sync": "^2.26.3",
+    "browser-sync": "^2.26.7",
     "gulp": "^4.0.0",
     "gulp-autoprefixer": "^6.0.0",
     "gulp-sass": "^4.0.2"
   },
   "dependencies": {
-    "gulp-cli": "^2.0.1"
+    "gulp-cli": "^2.2.0"
   }
 }
